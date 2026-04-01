@@ -1,12 +1,12 @@
-# Claw Code Python
+# Claw Code Agent
 
 <p align="center">
-  <img src="images/logo.png" alt="Claw Code Python logo" width="500" />
+  <img src="images/logo.png" alt="Claw Code Agent logo" width="500" />
 </p>
 
 Implementation of the Claude Code npm source architecture in Python.
 
-This repository builds on the public porting workspace from [instructkr/claw-code](https://github.com/instructkr/claw-code) and extends it into a usable Python local-model agent. The goal is not to ship the npm source itself, but to reimplement the agent flow in Python: prompt assembly, context building, slash commands, tool calling, and local model execution.
+This repository builds on the public porting workspace from [instructkr/claw-code](https://github.com/instructkr/claw-code) and extends it into a usable Python local-model agent. The active repository is [HarnessLab/claw-code-agent](https://github.com/HarnessLab/claw-code-agent). The goal is not to ship the npm source itself, but to reimplement the agent flow in Python: prompt assembly, context building, slash commands, tool calling, and local model execution.
 
 ## Status
 
